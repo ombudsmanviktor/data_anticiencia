@@ -6,6 +6,7 @@ Scripts and data used in article:
 
 ![](https://img.shields.io/badge/doi-10.4013%2Ffem.2021.232.11-ffb351)
 
+![](https://raw.githubusercontent.com/ombudsmanviktor/data_anticiencia/main/charts/figura6.png)
 
 ## Recognizing the files
 
