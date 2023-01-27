@@ -2,7 +2,7 @@
 
 Scripts and data used in article "Instituições científicas, profissionais e modelo jornalístico quando convém: a estrutura argumentativa sobre descrédito na ciência no WhatsApp durante a pandemia de Covid-19". [doi:10.4013/fem.2021.232.11](https://doi.org/10.4013/fem.2021.232.11)
 
-[](https://img.shields.io/badge/doi-10.4013%2Ffem.2021.232.11-ffb351)
+![](https://img.shields.io/badge/doi-10.4013%2Ffem.2021.232.11-ffb351)
 
 ## Recognizing the files
 
