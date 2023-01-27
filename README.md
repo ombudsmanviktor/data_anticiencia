@@ -1,17 +1,21 @@
 # data_anticiencia
 
-Scripts and data used in article ![](https://img.shields.io/badge/doi-10.4013%2Ffem.2021.232.11-ffb351)
+Scripts and data used in article:
 
 > Massuchin, M., Tavares, C., Mitozo, I., & Chagas, V. A estrutura argumentativa do descrédito na ciência: uma análise de mensagens de grupos bolsonaristas de Whatsapp na pandemia da COVID-19. Fronteiras - Estudos Midiáticos, 23(2), 2021.
 
+![](https://img.shields.io/badge/doi-10.4013%2Ffem.2021.232.11-ffb351)
 
 
 ## Recognizing the files
 
 ```tree
-teste
-teste 2
-teste 3
+| charts
+| codebook
+| contigency_tables
+READE.md
+db_pandemia_blind.R
+tablesCA.RData
 ```
 
 ## Using this data
