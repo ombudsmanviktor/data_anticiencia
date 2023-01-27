@@ -2,9 +2,8 @@
 
 Scripts and data used in article ![](https://img.shields.io/badge/doi-10.4013%2Ffem.2021.232.11-ffb351)
 
-```
-Massuchin, M., Tavares, C., Mitozo, I., & Chagas, V. A estrutura argumentativa do descrédito na ciência: uma análise de mensagens de grupos bolsonaristas de Whatsapp na pandemia da COVID-19. Fronteiras - Estudos Midiáticos, 23(2), 2021.
-```
+> Massuchin, M., Tavares, C., Mitozo, I., & Chagas, V. A estrutura argumentativa do descrédito na ciência: uma análise de mensagens de grupos bolsonaristas de Whatsapp na pandemia da COVID-19. Fronteiras - Estudos Midiáticos, 23(2), 2021.
+
 
 
 ## Recognizing the files
