@@ -10,10 +10,10 @@ Scripts and data used in article:
 ## Recognizing the files
 
 ```tree
-| charts
+| charts # comment
 | codebook
 | contigency_tables
-READE.md
+README.md
 db_pandemia_blind.R
 tablesCA.RData
 ```
