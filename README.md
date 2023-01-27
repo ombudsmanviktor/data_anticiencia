@@ -37,8 +37,8 @@ Commercial or private use of the data is not allowed. For this situation, please
 
 In omitted cases, prior consultation with those responsible is recommended, via email [colab@midia.uff.br](http://mailto:colab@midia.uff.br), for general guidance on the use of data.
 
+
 ## Licensing
 
 All data available in this repository is licensed under a Creative Commons [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/) license. Please refer to license clauses to resolve doubts about its use.
 
-[MIT](https://choosealicense.com/licenses/mit/)
