@@ -9,14 +9,15 @@ Scripts and data used in article:
 
 ## Recognizing the files
 
-```tree
-| charts # comment
-| codebook
-| contigency_tables
-README.md
-db_pandemia_blind.R
-tablesCA.RData
-```
+| File / Folder  | Description |
+| ------------- | ------------- |
+| charts  | PNG plotted charts  |
+| codebook  | Codebook used in the study  |
+| contingency_tables  | CSV tables with frequency distribution of variables  |
+| README.md  | Main README file  |
+| db_pandemia_blind.R  | Script used in the study  |
+| tablesCA.RData  | RData with frequency distribution of variables  |
+
 
 ## Using this data
 
